@@ -3,7 +3,6 @@
 ## 🚀 About Me
 - 🎓 BTech CSE (AI & ML)
 - 💡 Backend & AI Engineer
-- 🧠 Strong in Data Structures & Algorithms
 - 🔥 Building scalable AI systems from scratch
 - ⚡ Passionate about Deep Learning & System Design
 
@@ -12,7 +11,6 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammed-hafan/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ssYdyKjSfq/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/hafan-961)
 
 ---
@@ -70,8 +68,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafan-961&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafan-961&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hafan-961&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafan-961&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -82,10 +80,4 @@
   <img src="https://streak-stats.demolab.com?user=hafan-961&theme=tokyonight" />
 </p>
 
----
 
-## 🏆 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ssYdyKjSfq?theme=dark&font=Baloo&ext=contest" />
-</p>
