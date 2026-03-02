@@ -64,20 +64,20 @@
 ![System Design](https://img.shields.io/badge/System%20Design-444444?style=for-the-badge)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hafan-961&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafan-961&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hafan-961&theme=tokyonight" />
 </p>
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafan-961&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true"/>
+</p>
+---
+
+
 
 
