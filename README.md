@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Muhammed Hafan
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3500&color=58A6FF&background=0D1117&center=true&vCenter=true&width=700&lines=👋+I+am+Muhammed+Hafan" />
+</p>
 
 ## 🚀 About Me
 - 🎓 BTech CSE (AI & ML)
