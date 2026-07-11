@@ -1,12 +1,26 @@
+```text
+                          ███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗███████╗██████╗
+                          ████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔════╝██╔══██╗
+                          ██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║█████╗  ██║  ██║
+                          ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝  ██║  ██║
+                          ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║███████╗██████╔╝
+                          ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+
+                                      ██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗
+                                      ██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║
+                                      ███████║███████║█████╗  ███████║██╔██╗ ██║
+                                      ██╔══██║██╔══██║██╔══╝  ██╔══██║██║╚██╗██║
+                                      ██║  ██║██║  ██║██║     ██║  ██║██║ ╚████║
+                                      ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3500&color=58A6FF&background=0D1117&center=true&vCenter=true&width=700&lines=👋+I+am+Muhammed+Hafan" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4500&color=D3D3D3&background=0D1117&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Backend+Developer" />
 </p>
 
-## 🚀 About Me
-- 🎓 BTech CSE (AI & ML)
-- 💡 Backend & AI Engineer
-- 🔥 Building scalable AI systems from scratch
-- ⚡ Passionate about Deep Learning & System Design
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30" /> About Me
+I am an overzealous AI developer passionate about problem-solving and crafting innovative solutions. Constantly learning, evolving, and pushing my own boundaries.
 
 ---
 
