@@ -97,7 +97,7 @@ I am an overzealous AI developer passionate about problem-solving and crafting i
 
 
 
-![snake gif](https://raw.githubusercontent.com/hafan-961/hafan-961/output/github-contribution-grid-snake.svg)
+
 
 
 
